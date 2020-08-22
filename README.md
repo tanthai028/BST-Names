@@ -12,11 +12,11 @@ For your convenience, here is how you could do it in CMD environment.
 2. After compilation, to run the program, you would type the following command: a.exe
 
 # Input
-**Input file in.txt:  **
+**Input file in.txt:**  
   
 ![](input.png)
 
 # Output
-**Output file out.txt:  **
+**Output file out.txt:**  
   
 ![](output.png)
