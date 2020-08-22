@@ -3,6 +3,8 @@ Wrote on a C program that uses BST structure to searches, prints and deletes a l
     
 Utilized recursion to create fast and efficient functionality in place of loops and BST for it’s efficient sorting algorithm, searching in O(n) runtime complexity as a worst case and O(logn) runtime as the best case
 
+![](bstnames.png)
+
 # Usage
 For your convenience, here is how you could do it in CMD environment.
 
