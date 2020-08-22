@@ -11,4 +11,8 @@ For your convenience, here is how you could do it in CMD environment.
 1. First compile: gcc bstnames.c
 2. After compilation, to run the program, you would type the following command: a.exe
 
+# Input
+![](input.png)
+
 # Output
+![](output.png)
